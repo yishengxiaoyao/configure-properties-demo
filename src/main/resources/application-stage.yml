@@ -1,0 +1,5 @@
+app:
+  name: ConfigurationPropertiesDemoApp-STAGING
+  security:
+    username: stage
+    password: stage

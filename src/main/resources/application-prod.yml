@@ -1,0 +1,5 @@
+app:
+  name: ConfigurationPropertiesDemoApp-PRODUCTION
+  security:
+    username: prod
+    password: prod
