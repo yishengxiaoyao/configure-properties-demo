@@ -222,3 +222,5 @@ curl http://localhost:8080
 [Spring Boot @ConfigurationProperties: Binding external configurations to POJO classes](https://www.callicoder.com/spring-boot-configuration-properties-example/)
 
 [Externalized Configuration](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html)
+
+[常用属性配置列表](https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html)
