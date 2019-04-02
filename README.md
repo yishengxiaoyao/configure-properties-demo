@@ -215,7 +215,10 @@ curl http://localhost:8080
 也可以在pom.xml文件中添加要激活的环境。
 
 代码放在[github](https://github.com/yishengxiaoyao/configure-properties-demo)
+
+
 ##参考文献
+
 [Spring Boot @ConfigurationProperties: Binding external configurations to POJO classes](https://www.callicoder.com/spring-boot-configuration-properties-example/)
 
 [Externalized Configuration](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html)
